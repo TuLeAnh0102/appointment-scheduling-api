@@ -1,0 +1,50 @@
+D:\Project\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Project\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Project\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Project\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.2\WebAPICore.deps.json
+D:\Project\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.2\WebAPICore.runtimeconfig.json
+D:\Project\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.2\WebAPICore.runtimeconfig.dev.json
+D:\Project\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.2\WebAPICore.dll
+D:\Project\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.2\WebAPICore.pdb
+D:\Project\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.2\WebAPICore.Views.dll
+D:\Project\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.2\WebAPICore.Views.pdb
+D:\Project\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.RazorAssemblyInfo.cache
+D:\Project\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.RazorAssemblyInfo.cs
+D:\Project\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.AssemblyInfoInputs.cache
+D:\Project\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.AssemblyInfo.cs
+D:\Project\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.TagHelpers.input.cache
+D:\Project\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.TagHelpers.output.cache
+D:\Project\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.RazorCoreGenerate.cache
+D:\Project\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\Razor\Pages\Index.cshtml.g.cs
+D:\Project\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.RazorTargetAssemblyInfo.cache
+D:\Project\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.RazorTargetAssemblyInfo.cs
+D:\Project\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.Views.pdb
+D:\Project\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.dll
+D:\Project\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.pdb
+D:\Project\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.csproj.CopyComplete
+D:\Project\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.csprojAssemblyReference.cache
+E:\Project Dev\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Project Dev\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Project Dev\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\Project Dev\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.2\WebAPICore.deps.json
+E:\Project Dev\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.2\WebAPICore.runtimeconfig.json
+E:\Project Dev\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.2\WebAPICore.runtimeconfig.dev.json
+E:\Project Dev\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.2\WebAPICore.dll
+E:\Project Dev\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.2\WebAPICore.pdb
+E:\Project Dev\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.2\WebAPICore.Views.dll
+E:\Project Dev\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.2\WebAPICore.Views.pdb
+E:\Project Dev\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.csprojAssemblyReference.cache
+E:\Project Dev\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.RazorAssemblyInfo.cache
+E:\Project Dev\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.RazorAssemblyInfo.cs
+E:\Project Dev\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.AssemblyInfoInputs.cache
+E:\Project Dev\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.AssemblyInfo.cs
+E:\Project Dev\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.TagHelpers.input.cache
+E:\Project Dev\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.TagHelpers.output.cache
+E:\Project Dev\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.RazorCoreGenerate.cache
+E:\Project Dev\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\Razor\Pages\Index.cshtml.g.cs
+E:\Project Dev\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.RazorTargetAssemblyInfo.cache
+E:\Project Dev\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.RazorTargetAssemblyInfo.cs
+E:\Project Dev\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.Views.pdb
+E:\Project Dev\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.dll
+E:\Project Dev\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.pdb
+E:\Project Dev\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.2\WebAPICore.csproj.CopyComplete

@@ -1,0 +1,9 @@
+/WebAPICore/bin/Debug/netcoreapp3.1/*.dll
+/WebAPICore/bin/Release/netcoreapp3.1/*.dll
+/WebAPICore/bin/Release/netcoreapp3.1/publish/*.dll
+/WebAPICore/obj/Debug/netcoreapp3.1/*.resources
+/WebAPICore/obj/Debug/netcoreapp3.1/*.cache
+/WebAPICore/obj/Release/netcoreapp3.1/PubTmp/Out/*.dll
+/WebAPICore/obj/Release/netcoreapp3.1/*.txt
+/WebAPICore/obj/Release/netcoreapp3.1/*.resources
+/WebAPICore/obj/Release/netcoreapp3.1/*.cache
